@@ -1,6 +1,6 @@
 # HALLUCINATION IN OBJECT DETECTION — A STUDY IN VISUAL PART VERIFICATION
 
-    In ICIP, 2021.
+In [ICIP, 2021](https://arxiv.org/abs/2106.02523).
 [Osman Semih Kayhan](https://oskyhn.github.io/), [Bart Vredebregt](https://www.aiir.nl/team) and [Jan van Gemert](http://jvgemert.github.io/index.html). 
 
 This repository contains the DelftBikes dataset and the experiments of the paper. The dataset and the experiments will be available soon.<br> 
@@ -23,4 +23,18 @@ DelftBikes has 10,000 bike images annotated with bounding box locations of 22 di
 
 
 <img src="images/delftbikes.png" align="center" width="900" title="DelftBikes">
+
+
+## Citation
+
+Please cite this project as follows:
+
+@article{kayhan2021hallucination,<br>
+    title={Hallucination in Object Detection - A Study in Visual Part Verification},<br>
+    author={Osman Semih Kayhan and Bart Vredebregt and Jan C. van Gemert},<br>
+    year={2021},<br>
+    eprint={2106.02523},<br>
+    archivePrefix={arXiv},<br>
+    primaryClass={cs.CV}<br>
+}
 
