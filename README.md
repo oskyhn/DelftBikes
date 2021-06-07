@@ -3,7 +3,7 @@
 In [ICIP, 2021](https://arxiv.org/abs/2106.02523).
 [Osman Semih Kayhan](https://oskyhn.github.io/), [Bart Vredebregt](https://www.aiir.nl/team) and [Jan van Gemert](http://jvgemert.github.io/index.html). 
 
-This repository contains the DelftBikes dataset and the experiments of the paper. The dataset and the experiments will be available soon.<br> 
+This repository contains the DelftBikes dataset and the experiments of the [paper](https://arxiv.org/abs/2106.02523). The dataset and the experiments will be available soon.<br> 
 
 ## Abstract
 
