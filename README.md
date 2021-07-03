@@ -3,7 +3,11 @@
 In [ICIP, 2021](https://arxiv.org/abs/2106.02523).
 [Osman Semih Kayhan](https://oskyhn.github.io/), [Bart Vredebregt](https://www.aiir.nl/team) and [Jan van Gemert](http://jvgemert.github.io/index.html). 
 
-This repository contains the DelftBikes dataset and the experiments of the [paper](https://arxiv.org/abs/2106.02523). The dataset and the experiments will be available soon.<br> 
+This repository contains the DelftBikes dataset and the experiments of the [paper](https://arxiv.org/abs/2106.02523). You can download the dataset from [here](). <br> 
+
+DelftBikes dataset is used for the object detection challenge in [2nd Visual Inductive Priors for Data-Efficient Deep Learning Workshop](https://vipriors.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/). <br>
+
+The experiments will be available soon.<br> 
 
 ## Abstract
 
